@@ -7,3 +7,10 @@
 ### Related Repositories:
 - [sunchonman](https://github.com/akrnsl32/sunchonman)
 - [순천 전통시장(안드로이드 앱)](https://github.com/SangseonNa/sc_market)
+
+### 순천/여수/광양 IT 업체 목록
+
+#### 어플리케이션
+- [한국공학기술연구원(KETRI)](http://www.ketri.re.kr/ketri/)
+
+#### 로봇/하드웨어
