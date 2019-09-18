@@ -8,6 +8,10 @@
 - [sunchonman](https://github.com/akrnsl32/sunchonman)
 - [순천 전통시장(안드로이드 앱)](https://github.com/SangseonNa/sc_market)
 
+### 순천/여수/광양 IT 학원 목록
+- [글로벌컴퓨터학원](http://ghrd.kr), 전남 순천시 충효로 131-21
+- [파란직업전문학교](https://paranhrd.blog.me), 순천시 충효로 137 2층 (고용센터 옆)
+
 ### 순천/여수/광양 IT 업체 목록
 
 #### 어플리케이션
