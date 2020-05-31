@@ -4,6 +4,7 @@
 
 - [디스코드 커뮤니티 서버](https://discord.gg/ttnekGH)
 - [알고리즘 스터디톡방](https://open.kakao.com/o/gR8GvfN)
+- [백준 그룹](https://www.acmicpc.net/group/1243)
 
 ### Related Repositories:
 - [sunchonman](https://github.com/akrnsl32/sunchonman)
