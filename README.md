@@ -14,8 +14,8 @@
 - [순천대학교 창업지원단 화창마루](http://naver.me/xncEvjBh): 3D 프린터, 레이저 커팅기 등 이용 및 교육
 
 ### 순천/여수/광양 IT 학원 목록
-- [글로벌컴퓨터학원](http://ghrd.kr), 전남 순천시 충효로 131-21
-- [파란직업전문학교](https://paranhrd.blog.me), 순천시 충효로 137 2층 (고용센터 옆)
+- [글로벌컴퓨터학원](http://ghrd.kr), [전남 순천시 충효로 131-21](http://naver.me/Fui7WlzL)
+- [파란직업전문학교](https://paranhrd.blog.me), [순천시 충효로 137 2층 (고용센터 옆)](http://naver.me/xHbCioJZ)
 - [비트컴퓨터학원](http://cafe.daum.net/bitdesigncomputer), [전남 순천시 연향상가5길 17](http://naver.me/xT7UlxfB)
 - [W게임 이펙트 전문학원](http://w-effect.com/), [전남 순천시 순천만정원로 86 지플레이스 504](http://naver.me/xmfki82z)
 
