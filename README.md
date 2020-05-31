@@ -16,6 +16,8 @@
 ### 순천/여수/광양 IT 학원 목록
 - [글로벌컴퓨터학원](http://ghrd.kr), 전남 순천시 충효로 131-21
 - [파란직업전문학교](https://paranhrd.blog.me), 순천시 충효로 137 2층 (고용센터 옆)
+- [비트컴퓨터학원](http://cafe.daum.net/bitdesigncomputer), [전남 순천시 연향상가5길 17](http://naver.me/xT7UlxfB)
+- [W게임 이펙트 전문학원](http://w-effect.com/), [전남 순천시 순천만정원로 86 지플레이스 504](http://naver.me/xmfki82z)
 
 ### 순천/여수/광양 IT 업체/기관 목록
 
