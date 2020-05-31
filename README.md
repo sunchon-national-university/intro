@@ -20,3 +20,6 @@
 - [한국공학기술연구원(KETRI)](http://www.ketri.re.kr/ketri/)
 
 #### 로봇/하드웨어
+
+### 블로거
+- [순천SW코딩사랑](https://blog.naver.com/jayoo1005)
